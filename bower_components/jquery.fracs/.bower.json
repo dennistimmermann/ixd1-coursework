@@ -1,0 +1,15 @@
+{
+  "name": "jquery.fracs",
+  "homepage": "https://github.com/lrsjng/jQuery.fracs",
+  "version": "0.12.0",
+  "_release": "0.12.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.12.0",
+    "commit": "2819d74353ec4cd4b1ac963331fceacef27453d7"
+  },
+  "_source": "git://github.com/lrsjng/jQuery.fracs.git",
+  "_target": "~0.12.0",
+  "_originalSource": "jquery.fracs",
+  "_direct": true
+}
